@@ -1,0 +1,19 @@
+			table,tr, td{
+				 border:1px solid black;
+				 text-align:center;
+				 margin:auto;
+				 background-color: #f1f1c1;
+				 
+			 }
+			 button {
+				padding: 15px 32px;
+				text-align: center;
+				font-size: 16px;
+				margin: 4px 2px;
+			}
+			#btnCNC{
+				padding: 50px 32px;
+			}
+			#btnLO{
+				padding: 15px 143px;
+			}
